@@ -12473,7 +12473,7 @@ html body .waves-notransition {
 .btn-outline-warning:hover:hover,
 .btn-primary:hover,
 .btn-warning:hover {
-    color: #fff
+    color: #000
 }
 
 .btn-default {
