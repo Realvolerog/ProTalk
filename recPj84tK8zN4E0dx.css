@@ -2870,7 +2870,7 @@ fieldset:disabled .btn {
 }
 
 .btn-primary {
-    color: #fff;
+    color: #000;
     background-color: #fff;
     border-color: #353d4b
 }
