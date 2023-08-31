@@ -2872,13 +2872,13 @@ fieldset:disabled .btn {
 .btn-primary {
     color: #000;
     background-color: #6f6f6f;
-    border-color: #353d4b
+    border-color: #6f6f6f
 }
 
 .btn-primary:hover {
     color: #fff;
     background-color: #6f6f6f;
-    border-color: #353d4b
+    border-color: #6f6f6f
 }
 
 .btn-check:focus+.btn-primary,
