@@ -2871,8 +2871,8 @@ fieldset:disabled .btn {
 
 .btn-primary {
     color: #000;
-    background-color: #6f6f6f;
-    border-color: #6f6f6f
+    background-color: #353d4b;
+    border-color: #353d4b
 }
 
 .btn-primary:hover {
@@ -3045,8 +3045,8 @@ fieldset:disabled .btn {
 .btn-info.disabled,
 .btn-info:disabled {
     color: #fff;
-    background-color: #2255a4;
-    border-color: #2255a4
+    background-color: #fff;
+    border-color: #353d4b
 }
 
 .btn-warning {
@@ -12465,7 +12465,7 @@ html body .waves-notransition {
 .btn-outline-warning:hover,
 .btn-primary,
 .btn-warning {
-    color: #fff
+    color: #000
 }
 
 .btn-default:hover,
