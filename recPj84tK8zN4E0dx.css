@@ -3044,7 +3044,7 @@ fieldset:disabled .btn {
 
 .btn-info.disabled,
 .btn-info:disabled {
-    color: #fff;
+    color: #000;
     background-color: #fff;
     border-color: #353d4b
 }
@@ -12473,7 +12473,7 @@ html body .waves-notransition {
 .btn-outline-warning:hover:hover,
 .btn-primary:hover,
 .btn-warning:hover {
-    color: #000
+    color: #fff
 }
 
 .btn-default {
