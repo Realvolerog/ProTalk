@@ -2884,7 +2884,7 @@ fieldset:disabled .btn {
 .btn-check:focus+.btn-primary,
 .btn-primary:focus {
     color: #000;
-    background-color: #e3efff;
+    background-color: #fff;
     border-color: #353d4b;
     box-shadow: 0 0 0 0.0rem rgba(137, 120, 241, 0.5)
 }
@@ -2895,8 +2895,8 @@ fieldset:disabled .btn {
 .btn-primary:active,
 .show>.btn-primary.dropdown-toggle {
     color: #fff;
-    background-color: #6f6f6f;
-    border-color: #6f6f6f
+    background-color: #fff;
+    border-color: #353d4b
 }
 
 .btn-check:active+.btn-primary:focus,
