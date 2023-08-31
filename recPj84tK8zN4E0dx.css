@@ -2871,20 +2871,20 @@ fieldset:disabled .btn {
 
 .btn-primary {
     color: #000;
-    background-color: #353d4b;
+    background-color: #fff;
     border-color: #353d4b
 }
 
 .btn-primary:hover {
     color: #fff;
-    background-color: #6f6f6f;
-    border-color: #6f6f6f
+    background-color: #fff;
+    border-color: #353d4b
 }
 
 .btn-check:focus+.btn-primary,
 .btn-primary:focus {
     color: #fff;
-    background-color: #353d4b;
+    background-color: #e3efff;
     border-color: #353d4b;
     box-shadow: 0 0 0 0.0rem rgba(137, 120, 241, 0.5)
 }
