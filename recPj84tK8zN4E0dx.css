@@ -2984,9 +2984,9 @@ fieldset:disabled .btn {
 .btn-success.active,
 .btn-success:active,
 .show>.btn-success.dropdown-toggle {
-    color: #000;
-    background-color: #53c594;
-    border-color: #3ebe86
+    color: #fff;
+    background-color: #2664d9;
+    border-color: #2664d9
 }
 
 .btn-check:active+.btn-success:focus,
