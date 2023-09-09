@@ -15113,3 +15113,10 @@ label {
 .sidebar-nav ul .sidebar-item .sidebar-link i {
     color: #000;
 }
+
+
+#new-employee-card {
+    min-height:20rem;
+}
+
+
