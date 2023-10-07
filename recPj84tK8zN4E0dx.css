@@ -15124,5 +15124,19 @@ label {
     font-size:5rem;
 }
 
+.voice-Male {
+    width: 32px;
+    height: 32px;
+    background: url('https://account.dialog.ai.atiks.org/download/Male.svg');
+    display: inline-block;
+    background-size: cover;
+}
 
+.voice-Female {
+    width: 32px;
+    height: 32px;
+    background: url('https://account.dialog.ai.atiks.org/download/Female.svg');
+    display: inline-block;
+    background-size: cover;
+}
 
