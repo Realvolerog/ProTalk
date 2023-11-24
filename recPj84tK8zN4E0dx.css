@@ -73,7 +73,7 @@ body {
     font-weight: 400;
     line-height: 1.5;
     color: #3e5569;
-    background-color: #eeeeee;
+    -color: #eeeeee;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0)
 }
@@ -85,7 +85,7 @@ body {
 hr {
     margin: 1rem 0;
     color: inherit;
-    background-color: currentColor;
+    -color: currentColor;
     border: 0;
     opacity: 0.25
 }
@@ -15140,3 +15140,78 @@ label {
     background-size: cover;
 }
 
+.channel-WhatsApp {
+    width: 32px;
+    height: 32px;
+    background: url('https://eu1.account.dialog.ai.atiks.org/download/WhatsApp.svg');
+    display: inline-block;
+    background-size: cover;
+}
+
+.channel-Telegram {
+    width: 32px;
+    height: 32px;
+    background: url('https://eu1.account.dialog.ai.atiks.org/download/Telegram.svg');
+    display: inline-block;
+    background-size: cover;
+}
+
+.voice-Male {
+    width: 32px;
+    height: 32px;
+    background: url('https://eu1.account.dialog.ai.atiks.org/download/Male.svg');
+    display: inline-block;
+    background-size: cover;
+}
+
+.voice-Female {
+    width: 32px;
+    height: 32px;
+    background: url('https://eu1.account.dialog.ai.atiks.org/download/Female.svg');
+    display: inline-block;
+    background-size: cover;
+}
+
+.language-English {
+    width: 32px;
+    height: 32px;
+    background: url('https://eu1.account.dialog.ai.atiks.org/download/English.svg');
+    display: inline-block;
+    background-size: cover;
+}
+
+.language-Chinese {
+    width: 32px;
+    height: 32px;
+    background: url('https://eu1.account.dialog.ai.atiks.org/download/Chinese.svg');
+    display: inline-block;
+    background-size: cover;
+}
+
+.language-Русский {
+    width: 32px;
+    height: 32px;
+    background: url('https://eu1.account.dialog.ai.atiks.org/download/Русский.svg');
+    display: inline-block;
+    background-size: cover;
+}
+
+.web-icon {
+    width: 32px;
+    height: 32px;
+    background: url('https://eu1.account.dialog.ai.atiks.org/download/Web.svg');
+    display: inline-block;
+    background-size: cover;
+}
+
+.tgbot-icon {
+    width: 32px;
+    height: 32px;
+    background: url('https://eu1.account.dialog.ai.atiks.org/download/TelegramBot.png');
+    display: inline-block;
+    background-size: cover;
+}
+
+.open-chat {
+    margin-bottom:10px;
+}
