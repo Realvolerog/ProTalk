@@ -180,3 +180,7 @@ a, a:link, a:hover, a:visited {
     display: inline-block;
     background-size: cover;
 }
+
+.bg-success {
+    background-color: #2664d9 !important
+}
