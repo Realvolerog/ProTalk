@@ -184,3 +184,7 @@ a, a:link, a:hover, a:visited {
 .bg-success {
     background-color: #2664d9 !important
 }
+
+.bg-danger {
+    background-color: #d92664 !important
+}
