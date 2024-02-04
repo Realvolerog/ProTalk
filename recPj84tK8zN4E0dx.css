@@ -2961,8 +2961,8 @@ fieldset:disabled .btn {
 }
 
 .btn-success {
-    color: #000;
-    background-color: #fff;
+    color: #fff;
+    background-color: #2664d9;
     border-color: #2664d9
 }
 
