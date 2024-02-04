@@ -168,7 +168,7 @@ a, a:link, a:hover, a:visited {
 .voice-Male {
     width: 32px;
     height: 32px;
-    background: url('https://i.1.creatium.io/disk2/9d/1c/59/eb51057146e1eff931099d758738cf304c/man.jpg');
+    background: url('https://i.1.creatium.io/disk2/b8/84/74/041a8e5c62e9b7025196a0d33b938774ee/man.png');
     display: inline-block;
     background-size: cover;
 }
@@ -176,7 +176,7 @@ a, a:link, a:hover, a:visited {
 .voice-Female {
     width: 32px;
     height: 32px;
-    background: url('https://i.1.creatium.io/disk2/2f/4b/4b/21293515443040fec10fe715683e2520ee/wooman.jpg');
+    background: url('https://i.1.creatium.io/disk2/ab/7e/45/4a0d4635a31645c4cad21d2b46838be70e/wooman.png');
     display: inline-block;
     background-size: cover;
 }
