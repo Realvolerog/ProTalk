@@ -164,3 +164,19 @@ a, a:link, a:hover, a:visited {
     overflow: hidden;
     border-top: 1px solid #5d7186;
 }
+
+.voice-Male {
+    width: 32px;
+    height: 32px;
+    background: url('https://i.1.creatium.io/disk2/9d/1c/59/eb51057146e1eff931099d758738cf304c/man.jpg');
+    display: inline-block;
+    background-size: cover;
+}
+
+.voice-Female {
+    width: 32px;
+    height: 32px;
+    background: url('https://i.1.creatium.io/disk2/2f/4b/4b/21293515443040fec10fe715683e2520ee/wooman.jpg');
+    display: inline-block;
+    background-size: cover;
+}
