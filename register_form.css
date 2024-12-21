@@ -43,7 +43,7 @@ body {
         .logo {
             width: 100px;
             height: 100px;
-            background-image: url('https://i.1.creatium.io/disk2/e8/fd/ed/d01a2eb6e6b002c270070c3c74cfe51440/ptalk_ng.png'); 
+            background-image: url('https://i.1.creatium.io/disk2/e8/fd/ed/d01a2eb6e6b002c270070c3c74cfe51440/ptalk_ng.png')!important; 
             background-size: contain;
             background-repeat: no-repeat;
             background-position: center;
