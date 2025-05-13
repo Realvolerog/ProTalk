@@ -3059,7 +3059,7 @@ fieldset:disabled .btn {
 .btn-warning:hover {
     color: #fff;
     background-color: #fff;
-    border-color: #2664d9
+    border-color: #bdbdbd
 }
 
 .btn-check:focus+.btn-warning,
